@@ -2,7 +2,4 @@
 
 <img src='Burada.gif' />
 
-
-
-# Next-App
-# Burada-App
+# Next-Burada.com
